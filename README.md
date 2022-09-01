@@ -1,5 +1,5 @@
 <p align="center">
-    <iframe src="https://giphy.com/embed/26xBEamXwaMSUbV72" width="320" height="181" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <img src="https://media.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif" width="320"></img>
 </p>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"/> Hi, I’m @lucas-by, a french computational mechanics engineer:
