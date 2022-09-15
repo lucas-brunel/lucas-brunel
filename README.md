@@ -27,5 +27,6 @@
 
 <p align="center">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=vscode-samcef-language&theme=dracula&hide_border=true" alt="github-repo-vscode-samcef-language">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=RBF-interpolation&theme=dracula&hide_border=true" alt="github-repo-RBF-interpolation">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=gaussian-process-generator&theme=dracula&hide_border=true" alt="github-repo-gaussian-process-generator">
 </p>
