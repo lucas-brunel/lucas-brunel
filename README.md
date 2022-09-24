@@ -12,12 +12,12 @@
 ## 🔧 Languages and tools I use
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+    <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a> &nbsp;
+    <a href="https://www.mathworks.com/products/matlab.html"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/></a> &nbsp;
+    <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a> &nbsp;
+    <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a> &nbsp;
+    <a href="https://www.latex-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/></a> &nbsp;
+    <a href="https://fr.wikipedia.org/wiki/Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>
 </p>
 <p align="center">
     <img width="282" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-by&layout=compact&theme=dracula&hide_border=true" alt="lucas-by-languages-stats">
@@ -26,7 +26,7 @@
 ## 📘 Repositories
 
 <p align="center">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=vscode-samcef-language&theme=dracula&hide_border=true" alt="github-repo-vscode-samcef-language">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=RBF-interpolation&theme=dracula&hide_border=true" alt="github-repo-RBF-interpolation">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=gaussian-process-generator&theme=dracula&hide_border=true" alt="github-repo-gaussian-process-generator">
+    <a href="https://github.com/lucas-by/vscode-samcef-language"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=vscode-samcef-language&theme=dracula&hide_border=true" alt="github-repo-vscode-samcef-language"></a>
+    <a href="https://github.com/lucas-by/RBF-interpolation"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=RBF-interpolation&theme=dracula&hide_border=true" alt="github-repo-RBF-interpolation"></a>
+    <a href="https://github.com/lucas-by/gaussian-process-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=gaussian-process-generator&theme=dracula&hide_border=true" alt="github-repo-gaussian-process-generator"></a>
 </p>
