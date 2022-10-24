@@ -4,7 +4,7 @@
 
 ## 👨‍🔬 Who am I
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"/> Hi, I’m @lucas-by, a french PhD student in engineering and applied mathematics:
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"/> Hi, I’m @lucas-by, a french PhD student in applied mathematics:
 - 🚀 I’m passionate about rocket science and space exploration
 - 👀 I also love applied mathematics and fundamental physics 
 - 📫 How to reach me: [![linkedin Badge](https://img.shields.io/badge/-Lucas_Brunel-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-brunel-)
