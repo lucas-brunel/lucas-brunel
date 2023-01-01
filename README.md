@@ -19,9 +19,6 @@
     <a href="https://www.latex-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/></a> &nbsp;
     <a href="https://fr.wikipedia.org/wiki/Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>
 </p>
-<p align="center">
-    <img width="282" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-by&layout=compact&theme=dracula&hide_border=true" alt="lucas-by-languages-stats">
-</p>
 
 ## 📘 Repositories
 
