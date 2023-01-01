@@ -4,7 +4,7 @@
 
 ## 👨‍🔬 Who am I
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"/> Hi, I’m @lucas-by, a french PhD student in applied mathematics:
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"/> Hi, I’m @lucas-brunel, a french PhD student in applied mathematics:
 - 🚀 I’m passionate about rocket science and space exploration
 - 👀 I also love applied mathematics and fundamental physics 
 - 📫 How to reach me: [![linkedin Badge](https://img.shields.io/badge/-Lucas_Brunel-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-brunel-)
@@ -23,7 +23,7 @@
 ## 📘 Repositories
 
 <p align="center">
-    <a href="https://github.com/lucas-by/vscode-samcef-language"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=vscode-samcef-language&theme=dracula&hide_border=true" alt="github-repo-vscode-samcef-language"></a>
-    <a href="https://github.com/lucas-by/RBF-interpolation"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=RBF-interpolation&theme=dracula&hide_border=true" alt="github-repo-RBF-interpolation"></a>
-    <a href="https://github.com/lucas-by/gaussian-process-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=gaussian-process-generator&theme=dracula&hide_border=true" alt="github-repo-gaussian-process-generator"></a>
+    <a href="https://github.com/lucas-brunel/vscode-samcef-language"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=vscode-samcef-language&theme=dracula&hide_border=true" alt="github-repo-vscode-samcef-language"></a>
+    <a href="https://github.com/lucas-brunel/RBF-interpolation"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=RBF-interpolation&theme=dracula&hide_border=true" alt="github-repo-RBF-interpolation"></a>
+    <a href="https://github.com/lucas-brunel/gaussian-process-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=gaussian-process-generator&theme=dracula&hide_border=true" alt="github-repo-gaussian-process-generator"></a>
 </p>
