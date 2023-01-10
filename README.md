@@ -23,7 +23,7 @@
 ## 📘 Repositories
 
 <p align="center">
-    <a href="https://github.com/lucas-brunel/vscode-samcef-language"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=vscode-samcef-language&theme=dracula&hide_border=true" alt="github-repo-vscode-samcef-language"></a>
-    <a href="https://github.com/lucas-brunel/RBF-interpolation"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=RBF-interpolation&theme=dracula&hide_border=true" alt="github-repo-RBF-interpolation"></a>
-    <a href="https://github.com/lucas-brunel/gaussian-process-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-by&repo=gaussian-process-generator&theme=dracula&hide_border=true" alt="github-repo-gaussian-process-generator"></a>
+    <a href="https://github.com/lucas-brunel/vscode-samcef-language"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-brunel&repo=vscode-samcef-language&theme=dracula&hide_border=true" alt="github-repo-vscode-samcef-language"></a>
+    <a href="https://github.com/lucas-brunel/RBF-interpolation"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-brunel&repo=RBF-interpolation&theme=dracula&hide_border=true" alt="github-repo-RBF-interpolation"></a>
+    <a href="https://github.com/lucas-brunel/gaussian-process-generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucas-brunel&repo=gaussian-process-generator&theme=dracula&hide_border=true" alt="github-repo-gaussian-process-generator"></a>
 </p>
